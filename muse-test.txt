@@ -1,0 +1,4 @@
+Muse test file
+Repo: kgh930006-hub/render-test
+Date: 2026-11-25 09:20 Asia/Damascus
+Purpose: test GitHub publishing from Muse
